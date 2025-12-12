@@ -1,0 +1,24 @@
+{
+  "name": "with-sdd",
+  "version": "1.0.0",
+  "description": "A To-Do List project with SDD",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Neath3333/With-SDD.git"
+  },
+  "keywords": [
+    "todo",
+    "sdd",
+    "task-manager"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Neath3333/With-SDD/issues"
+  },
+  "homepage": "https://github.com/Neath3333/With-SDD#readme"
+}
